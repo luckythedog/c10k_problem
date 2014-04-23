@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1398237439 source:/home/lucky/workspace/c10k_problem/main.cpp
+	<iostream>
+	<pthread.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<string>
+	<poll.h>
+	<semaphore.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<vector>
+	<cstring>
+	<cstdio>
+
