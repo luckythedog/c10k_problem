@@ -14,3 +14,53 @@
 	<cstring>
 	<cstdio>
 
+1398406327 source:/home/lucky/workspace/c10k_problem_lua/main.cpp
+	<iostream>
+	<pthread.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<string>
+	<poll.h>
+	<semaphore.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<vector>
+	<cstring>
+	<cstdio>
+	<cassert>
+	"lua.h"
+	"lualib.h"
+	"lauxlib.h"
+
+1398398226 /home/lucky/workspace/c10k_problem_lua/LMSPacket.h
+	<string.h>
+	<cstdlib>
+
+1326486980 /usr/include/lua5.1/lua.h
+	<stdarg.h>
+	<stddef.h>
+	"luaconf.h"
+
+1343036750 /usr/include/lua5.1/luaconf.h
+	<limits.h>
+	<stddef.h>
+	"lua5.1-deb-multiarch.h"
+	<unistd.h>
+	<io.h>
+	<stdio.h>
+	<stdio.h>
+	<readline/readline.h>
+	<readline/history.h>
+	<assert.h>
+	<math.h>
+	<unistd.h>
+
+1198760545 /usr/include/lua5.1/lualib.h
+	"lua.h"
+
+1198760545 /usr/include/lua5.1/lauxlib.h
+	<stddef.h>
+	<stdio.h>
+	"lua.h"
+
